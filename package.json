@@ -1,0 +1,20 @@
+{
+    "name": "Leaftet",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon src/index.js -e js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ejs-mate": "^3.0.0",
+        "express": "^4.17.1",
+        "socket.io": "^4.0.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
